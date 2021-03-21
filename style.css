@@ -344,6 +344,10 @@ content: '';
     left: 0;
 
 }
+.counter {
+  animation-duration: 1s;
+  animation-delay: 0s;
+}
 
 .h4-skills::before{
     content: '';
