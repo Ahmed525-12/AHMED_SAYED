@@ -180,7 +180,7 @@ html::-webkit-scrollbar{
 ------------------------------------------------------------------------------------------------------------------------------- */
 
 .header-bg{
-    background-image: url(img/pexels-veeterzy-38136.jpg);
+    background-image: url(img/d.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -219,7 +219,7 @@ height: 107.5vh;
 ------------------------------------------------------------------------------------------------------------------------------- */
 
 .image-border {
-	width: 300px;
+	width: 350px;
 	height: 311px;
 	background-color: #eee;
 	background-image: url('img/my\ photo.jpg');
